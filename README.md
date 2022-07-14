@@ -11,7 +11,7 @@
 - JSTL is used to fetch data and render it to view
 
 
-*Application that manages student data containing primary details*
+*Application that manages student data containing primary details*    
 *Uses MySQL system*
 
 
